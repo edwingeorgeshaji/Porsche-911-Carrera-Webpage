@@ -59,6 +59,7 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License.
    </summary>
    
    ![pic1](https://github.com/user-attachments/assets/22341084-f35f-451c-8ed0-a82817077830)
+   ![pic3](https://github.com/user-attachments/assets/3e396827-e730-40d5-aba9-f48b96c69b98)
    ![pic2](https://github.com/user-attachments/assets/909e7185-b858-405a-9ef6-f0663654255b)
 
 </details>
