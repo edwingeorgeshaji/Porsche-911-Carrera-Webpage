@@ -1,0 +1,40 @@
+body{
+	background: linear-gradient(to top,#ffe1e1 ,#FFF5EE);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1,.martin{
+	color:#c82216;
+}
+h2{
+	color:black;
+	text-decoration:grey dotted underline;
+}
+#p1,#p2{
+	color:#62818b;
+}
+.peter{
+	border-style:groove;
+	border-width:6px;
+	border-radius:1px;
+	padding: 10px;
+}
+.image-scroll-container {
+	overflow-x: auto;
+	white-space: nowrap;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.image-scroll img {
+	display: inline-block;
+	width: 300px;
+	height: auto;
+	margin-right: 10px;
+	border-radius: 5px;
+}
+.gototop {
+    text-decoration: none;
+    color: #c82216;
+}
+
