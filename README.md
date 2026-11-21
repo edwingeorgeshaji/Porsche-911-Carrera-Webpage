@@ -63,3 +63,9 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License.
    ![pic2](https://github.com/user-attachments/assets/909e7185-b858-405a-9ef6-f0663654255b)
 
 </details>
+
+
+ <div align='center'>
+  
+  Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+ </div>
